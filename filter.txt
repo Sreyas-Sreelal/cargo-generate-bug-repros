@@ -1,0 +1,1 @@
+cool project name is {{crate_name | pascal_case}}
