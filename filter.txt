@@ -1,1 +1,2 @@
 cool project name is {{crate_name | pascal_case}}
+cool project name is {{crate_name | snake_case}}
